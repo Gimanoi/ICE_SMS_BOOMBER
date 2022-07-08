@@ -55,7 +55,7 @@ def log(looping_count, sms_number, phone_number):
     return_internet_error = str(sended.count(-1))
 
     print("----------------------------------------------------")
-    print("[-] Attack Started To : 98 {}".format(phone_number))
+    print("[-] Attack Started To : 62 {}".format(phone_number))
     print("\n\n[*] Attacked: {}/{}    Bad Post: {}    Connection Time Out: {}".format(return_200, sms_number, return_error, return_internet_error))
     print("\n[*] all lo0ping script : {}".format(looping_count))
     print("----------------------------------------------------")
